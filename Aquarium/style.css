@@ -1,0 +1,8 @@
+#header{
+    background-image:url(image/media/header-background.png)
+}
+#fish img{
+    margin: 0px;
+    flex-direction: row;
+    
+}
